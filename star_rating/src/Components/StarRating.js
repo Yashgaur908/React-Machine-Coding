@@ -18,7 +18,7 @@ const StarRating = ({ totalStars = 5, initialRating = 0 }) => {
 
   return (
     <div>
-      {/* Both Array(totalStars).fill() and [...Array(totalStars)] are ways to create an array with a specified number of elements.*/}
+      {/* Both Array(totalStars).fill() and [...Array(totalStars)] are ways to create an array with a specified number of elements. */}
       { [...Array(totalStars)].map((_, index) => {
         const starValue = index + 1;
         const starStyles = starValue <= rating ? { ...starStyle, ...filledStarStyle } : starStyle;
