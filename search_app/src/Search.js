@@ -26,7 +26,7 @@ const Search = () => {
                 .map((person, index) => <p> {person} </p>)
             }
             </div>
-        </>
+        </>     
 
         // <>
         //     <div>
