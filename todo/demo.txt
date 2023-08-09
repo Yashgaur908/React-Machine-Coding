@@ -1,1 +1,2 @@
-write your code here
+1. Counter
+2. Fetch Data From API
