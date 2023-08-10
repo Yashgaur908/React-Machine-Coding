@@ -1,2 +1,3 @@
-1. Counter
-2. Fetch Data From API
+1. Counter.
+2. Fetch Data From API.
+3. Submit Data using form and show it in a table.
