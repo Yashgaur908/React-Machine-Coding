@@ -1,4 +1,4 @@
-import React, {ueState} from 'react'
+import React, {useState} from 'react'
 
 const Accordion = () => {
 
